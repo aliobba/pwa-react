@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e4318054cb733d57888989621c9f8197",
+    "revision": "d3f904b987bd05d3f634bfcc945a19ab",
     "url": "/pwa-react/index.html"
   },
   {
-    "revision": "78356dd10275d3fc17ef",
+    "revision": "6873d5b77808f1391d05",
     "url": "/pwa-react/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "b31c2d3ea908c8286a5a",
+    "revision": "7635a5db98a15160e9dd",
     "url": "/pwa-react/static/css/main.63598071.chunk.css"
   },
   {
-    "revision": "78356dd10275d3fc17ef",
-    "url": "/pwa-react/static/js/2.68ebac8a.chunk.js"
+    "revision": "6873d5b77808f1391d05",
+    "url": "/pwa-react/static/js/2.2b32ec3e.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/pwa-react/static/js/2.68ebac8a.chunk.js.LICENSE.txt"
+    "url": "/pwa-react/static/js/2.2b32ec3e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b31c2d3ea908c8286a5a",
-    "url": "/pwa-react/static/js/main.75e86791.chunk.js"
+    "revision": "7635a5db98a15160e9dd",
+    "url": "/pwa-react/static/js/main.f6c0821e.chunk.js"
   },
   {
     "revision": "ec789973cab11c1f92da",
