@@ -29,9 +29,9 @@ function App() {
           </Nav>
         </Navbar>
         <Switch>
-          <Route path="pwa-react/about" component={About} ></Route>
-          <Route path="pwa-react/users" component={Users} ></Route>
-          <Route path="pwa-react/" component={Home} ></Route>
+          <Route path="/about" component={About} ></Route>
+          <Route path="/users" component={Users} ></Route>
+          <Route path="/" component={Home} ></Route>
         </Switch>
       </Router>
     </div>
