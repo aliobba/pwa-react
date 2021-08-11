@@ -23,9 +23,9 @@ function App() {
         <Navbar bg="primary" variant="dark">
           <Navbar.Brand href="#home">Navbar</Navbar.Brand>
           <Nav className="mr-auto">
-            <Nav.Link ><Link to="/">Home</Link></Nav.Link>
-            <Nav.Link ><Link to="/about" >About</Link></Nav.Link>
-            <Nav.Link><Link to="/users">Users</Link></Nav.Link>
+            <Nav.Link ><Link to="pwa-react/">Home</Link></Nav.Link>
+            <Nav.Link ><Link to="pwa-react/about" >About</Link></Nav.Link>
+            <Nav.Link><Link to="pwa-react/users">Users</Link></Nav.Link>
           </Nav>
         </Navbar>
         <Switch>
